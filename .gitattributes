@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+[[:space:]]~/OneDrive/Documenti/R_universita/sportdataanalytics/Data/*.csv filter=lfs diff=lfs merge=lfs -text
+~/OneDrive/Documenti/R_universita/sportdataanalytics/Data/*.csv filter=lfs diff=lfs merge=lfs -text
+athletics.csv filter=lfs diff=lfs merge=lfs -text
